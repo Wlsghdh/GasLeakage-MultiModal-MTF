@@ -1,4 +1,55 @@
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+# Byte-compiled / optimized
 __pycache__/
+*.py[cod]
+*$py.class
 *.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE / Editor
+.cursor/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment & secrets
+.env
+.envrc
+
+# Logs & cache
+*.log
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Model weights & 체크포인트 (용량 큼)
+*.pt
+*.ptl
+*.pth
+*.ckpt
+checkpoints/
+
+# 생성/결과 파일
+results/
+*.png
+ML_Model_Comparison_Report.txt
+
+# 데이터 파일 (코드만 버전 관리, 데이터는 별도)
+*.csv
+data/*.csv
+open*/
+open (2)/
+
+# 기타
+.DS_Store
+*.tmp
+*.temp

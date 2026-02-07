@@ -49,6 +49,11 @@ data/*.csv
 open*/
 open (2)/
 
+# 불필요/테스트용 파일
+asdf.py
+acc.py
+sdvsdvsd.ipynb
+
 # 기타
 .DS_Store
 *.tmp

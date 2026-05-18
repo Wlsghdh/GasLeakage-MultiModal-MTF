@@ -11,6 +11,24 @@ This repository contains our code that implements and extends the pipeline descr
 
 ---
 
+## 📄 Our Paper (KIISE Submission)
+
+- **PDF 다운로드:** [`paper/MultiModal.pdf`](paper/MultiModal.pdf)
+
+[![Paper](https://img.shields.io/badge/Paper-PDF-red.svg)](paper/MultiModal.pdf)
+
+### 논문 전체 미리보기
+
+<p align="center">
+  <img src="paper/preview/page-1.png" width="700" alt="Page 1"><br>
+  <img src="paper/preview/page-2.png" width="700" alt="Page 2"><br>
+  <img src="paper/preview/page-3.png" width="700" alt="Page 3"><br>
+  <img src="paper/preview/page-4.png" width="700" alt="Page 4"><br>
+  <img src="paper/preview/page-5.png" width="700" alt="Page 5"><br>
+</p>
+
+---
+
 ## Overview
 
 The pipeline combines:

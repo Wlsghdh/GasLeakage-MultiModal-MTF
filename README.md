@@ -23,7 +23,6 @@ This repository contains our code that implements and extends the pipeline descr
   <img src="paper/preview/page-1.png" width="700" alt="Page 1"><br>
   <img src="paper/preview/page-2.png" width="700" alt="Page 2"><br>
   <img src="paper/preview/page-3.png" width="700" alt="Page 3"><br>
-  <img src="paper/preview/page-4.png" width="700" alt="Page 4"><br>
 </p>
 
 ---
